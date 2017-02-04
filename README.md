@@ -1,2 +1,2 @@
 # katashop
-Ecommerce basado en Laravel
+Sistema Ecommerce basado en Laravel
