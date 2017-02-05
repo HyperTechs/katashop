@@ -11,3 +11,4 @@
 /public/hot
 /.idea
 .env
+.DS_Store
