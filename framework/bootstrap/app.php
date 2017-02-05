@@ -15,8 +15,12 @@ $app = new Illuminate\Foundation\Application(
     realpath(__DIR__.'/../')
 );
 
+<<<<<<< HEAD
+$app->useEnvironmentPath(__DIR__.'/../../');
+=======
 $app->useEnvironmentPath(realpath(__DIR__.'/../../'));
 
+>>>>>>> bfa0709191683b890d2c1c39d401feb0019d74a5
 
 /*
 |--------------------------------------------------------------------------
