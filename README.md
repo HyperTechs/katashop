@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/laravelonfire/katashop/dev-master/docs/header.png" style="border:0;" alt="katashop E-commerce"/>
+
 # katashop
 ## E-commerce basado en Laravel
 
