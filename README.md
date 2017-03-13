@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/laravelonfire/katashop/dev-master/docs/header.png" style="border:0;" alt="katashop E-commerce"/>
 
 # katashop
-## E-commerce basado en Laravel
+## E-commerce basado en Laravel 5.4
 
 Nuestro objetivo es desarrollar un e-commerce simplificado, eficiente y que sea mantenible por los clientes de forma fácil. Construir una plataforma expansible por la comunidad, ya sea a través de temas, widgets, plugins, métodos de pago o packages.
 
